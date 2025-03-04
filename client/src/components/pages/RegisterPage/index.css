@@ -1,0 +1,15 @@
+.register-form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 20px;
+  box-shadow: 5px 8px 24px 5px rgba(208, 216, 243, 0.6);
+  padding: 24px;
+  min-width: 250px;
+}
+
